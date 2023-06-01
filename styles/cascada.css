@@ -1,7 +1,9 @@
 body{
     background-image: url(/assets/waterfall.jpg);
 }
-
+div{
+    background-color: goldenrod;
+}
 
 a{
     font-size: 30px;
