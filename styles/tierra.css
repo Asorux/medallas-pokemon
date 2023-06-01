@@ -1,0 +1,17 @@
+body{
+    background-image: url(/assets/tierra.jpg);
+}
+
+div{
+    background-color:aquamarine;
+    font-size: 25px;
+}
+#umbreon{
+width: 200px;
+}
+#typh{
+    width: 200px;
+}
+#scep{
+    width: 250px;
+}

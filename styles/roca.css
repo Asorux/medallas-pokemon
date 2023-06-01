@@ -1,0 +1,11 @@
+body{
+    background-image: url(/assets/roca.avif);
+}
+
+div{
+    background-color: cadetblue;
+}
+a{
+    background-color: cadetblue;
+    font-size: 40px;
+}

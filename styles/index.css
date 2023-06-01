@@ -1,0 +1,25 @@
+#titulo{
+    text-align: center;
+    font-size: 40px;
+
+}
+body{
+    background-color: azure;
+    /* background-image: url(/assets/medallas-portada.webp);
+    background-size: 500px;
+    background-repeat: no-repeat;
+    background-position: 350px 100px; */
+
+}
+medallas{
+    align-items: center;
+}
+p{
+    text-align: center;
+    font-size: 30px;
+}
+
+a{
+    text-align:left;
+    font-size: 30px;
+}

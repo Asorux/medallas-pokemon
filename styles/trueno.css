@@ -1,0 +1,14 @@
+body{
+    background-image: url(/assets/truenoo.jpeg);
+}
+div{
+    background-color: aliceblue;
+}
+
+#papas{
+    width: 250px;
+    justify-content: center;
+}
+a{
+    font-size: 30px;
+}

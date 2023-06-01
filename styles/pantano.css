@@ -1,0 +1,21 @@
+body{
+    background-image: url(/assets/pantano.webp);
+    font-size: 20px;
+}
+
+div{
+    background-color: goldenrod;
+}
+
+#dog{
+    width: 200px;
+}
+#cat{
+    width: 200px;
+}
+#bird{
+    width: 200px;
+}
+a{
+    font-size: 30px;
+}
